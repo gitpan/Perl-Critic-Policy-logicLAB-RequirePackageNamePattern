@@ -18,7 +18,7 @@ name: Perl-Critic-Policy-logicLAB-RequirePackageNamePattern
 provides:
   Perl::Critic::Policy::logicLAB::RequirePackageNamePattern:
     file: lib/Perl/Critic/Policy/logicLAB/RequirePackageNamePattern.pm
-    version: 0.02
+    version: 0.03
 requires:
   Carp: 0
   Data::Dumper: 0
@@ -34,4 +34,4 @@ resources:
   homepage: http://logiclab.jira.com/wiki/display/PCPLRPNP/Home
   license: http://www.perlfoundation.org/artistic_license_2_0
   repository: https://github.com/jonasbn/pcplrpnp
-version: 0.02
+version: 0.03
